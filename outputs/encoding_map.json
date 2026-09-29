@@ -1,0 +1,93 @@
+{
+  "abx": {
+    "No": 0,
+    "Yes": 1
+  },
+  "ua_wbc": {
+    "large": 0,
+    "moderate": 1,
+    "negative": 2,
+    "not_reported": 3,
+    "other": 4,
+    "small": 5
+  },
+  "ANTIBIOTICS": {
+    "No": 0,
+    "Yes": 1
+  },
+  "ua_bacteria": {
+    "few": 0,
+    "many": 1,
+    "marked": 2,
+    "moderate": 3,
+    "none": 4,
+    "not_reported": 5
+  },
+  "ua_ph": {
+    "5.0": 0,
+    "5.5": 1,
+    "6.0": 2,
+    "6.5": 3,
+    "7.0": 4,
+    "7.5": 5,
+    "8.0": 6,
+    "8.5": 7,
+    "9.0": 8,
+    "not_reported": 9,
+    "other": 10
+  },
+  "ua_leuk": {
+    "large": 0,
+    "moderate": 1,
+    "negative": 2,
+    "not_reported": 3,
+    "other": 4,
+    "small": 5
+  },
+  "ua_clarity": {
+    "clear": 0,
+    "not_clear": 1,
+    "not_reported": 2
+  },
+  "gender": {
+    "Female": 0,
+    "Male": 1,
+    "not_reported": 2
+  },
+  "ANTIARTHRITICS": {
+    "No": 0,
+    "Yes": 1
+  },
+  "ua_nitrite": {
+    "negative": 0,
+    "not_reported": 1,
+    "other": 2,
+    "positive": 3
+  },
+  "ANTIASTHMATICS": {
+    "No": 0,
+    "Yes": 1
+  },
+  "Anion_Gap": {
+    "1": 0,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "not_reported": 5
+  },
+  "ua_urobili": {
+    "negative": 0,
+    "not_reported": 1,
+    "positive": 2
+  },
+  "dysuria": {
+    "0": 0,
+    "1": 1,
+    "not_reported": 2
+  },
+  "ANALGESICS": {
+    "No": 0,
+    "Yes": 1
+  }
+}
